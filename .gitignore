@@ -2,3 +2,4 @@ outputs/demo.avi
 data/video/max no fish per tank_c01_0001.avi
 **/__pycache__
 checkpoints
+*.weights
